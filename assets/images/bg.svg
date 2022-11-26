@@ -57,7 +57,7 @@
     </mask>
     <style>
       *>path{
-        fill: #0054588a;
+        fill:  #fba70b25;
       }
       @keyframes float1 {
         0% {
