@@ -1,6 +1,6 @@
 # oncampus.github.io
 
-the animated svg in the top is downloaded from [here](https://lottiefiles.com/60584-developer-isometric-people-working-with-technology) the color scheme of this animation can be changed from here
+the  color of backgound animation at top can be changed from images/bg.svg fith a property named path fill and edit it
 all the icons used are images and not css icons.
 
 color scheme is not yet matching the logo and needs to be fixed.
